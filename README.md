@@ -1,1 +1,0 @@
-# Exercicios-Estrutura-de-Dados-e-Algoritmos-em-Python
